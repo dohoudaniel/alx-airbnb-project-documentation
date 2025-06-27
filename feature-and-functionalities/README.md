@@ -1,4 +1,3 @@
-```markdown
 # 🏡 Airbnb Clone - Backend
 
 ## 🎯 Objective
